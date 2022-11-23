@@ -5,7 +5,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout
-      uses: actions/checkout@maain
+      uses: actions/checkout@main
 
     - name: vuepress-deploy
       uses: MStenke/Camp_Rubrik_ES@main

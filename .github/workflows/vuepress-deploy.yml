@@ -8,7 +8,7 @@ jobs:
       uses: actions/checkout@master
 
     - name: vuepress-deploy
-      uses: MStenke/Camp_Rubrik_ES@master
+      uses: MStenke/Camp_Rubrik_ES
       env:
         ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
         TARGET_REPO: MStenke/Camp_Rubrik_ES

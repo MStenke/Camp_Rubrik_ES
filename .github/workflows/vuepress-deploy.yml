@@ -8,10 +8,10 @@ jobs:
       uses: actions/checkout@master
 
     - name: vuepress-deploy
-      uses: MStenke/vuepress-deploy@master
+      uses: MStenke/Camp_Rubrik_ES@master
       env:
         ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-        TARGET_REPO: username/repo
+        TARGET_REPO: MStenke/Camp_Rubrik_ES
         TARGET_BRANCH: master
         BUILD_SCRIPT: yarn && yarn docs:build
         BUILD_DIR: docs/.vuepress/dist

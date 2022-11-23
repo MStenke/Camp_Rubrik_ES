@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-c7b78726","path":"/pages/data_security_command_center/dscc-2.html","title":"Platform Security","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{},"filePathRelative":"pages/data_security_command_center/dscc-2.md"}');export{e as data};

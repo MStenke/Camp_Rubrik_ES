@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-5005c19c","path":"/pages/orchestrated_recovery/recovery-0.html","title":"Orchestrated Application Recovery","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{},"filePathRelative":"pages/orchestrated_recovery/recovery-0.md"}');export{e as data};

@@ -1,0 +1,1 @@
+export const data = JSON.parse("{\"key\":\"v-ce8ae9a2\",\"path\":\"/pages/data_security_command_center/dscc-0.html\",\"title\":\"Data Security Command Center\",\"lang\":\"en-US\",\"frontmatter\":{},\"excerpt\":\"\",\"headers\":[],\"git\":{},\"filePathRelative\":\"pages/data_security_command_center/dscc-0.md\"}")

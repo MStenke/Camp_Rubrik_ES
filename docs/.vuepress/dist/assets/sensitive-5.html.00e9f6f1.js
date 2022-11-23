@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-c149f27c","path":"/pages/sensitive_data_discovery/sensitive-5.html","title":"Analyzers","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{},"filePathRelative":"pages/sensitive_data_discovery/sensitive-5.md"}');export{e as data};

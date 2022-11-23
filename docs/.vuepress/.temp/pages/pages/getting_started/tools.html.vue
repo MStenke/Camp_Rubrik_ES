@@ -1,0 +1,10 @@
+<template><div><h1 id="tools-you-will-be-leveraging" tabindex="-1"><a class="header-anchor" href="#tools-you-will-be-leveraging" aria-hidden="true">#</a> Tools you will be leveraging</h1>
+<h2 id="rubrik-security-cloud" tabindex="-1"><a class="header-anchor" href="#rubrik-security-cloud" aria-hidden="true">#</a> Rubrik Security Cloud</h2>
+<p>Rubrik Security Cloud operationalizes all the data situated in your distributed environment into a robust metadata framework. It organizes all the business information to make it discoverable and usable, no matter where it is. By consolidating all the metadata from several data sources into a unified system of record, Rubrik enables customers to exploit the business value hidden in their data assets.</p>
+<h2 id="rubrik-data-protection" tabindex="-1"><a class="header-anchor" href="#rubrik-data-protection" aria-hidden="true">#</a> Rubrik Data Protection</h2>
+<p>Rubrik Data Protection (RDP) delivers centralized management for your global, distributed Rubrik environment. Designed for a seamless user experience, RDP provides a comprehensive view of customers' physical, virtual, and cloud topologies while making management tasks elegantly simple and intuitive. Search for a point-in-time activity by application or location. Determine SLA-compliant applications at a glance. Powered by an automated visualization engine, RDP enables filtering as you go to generate rich custom dashboards in minutes.</p>
+<h2 id="declarative-policy-engine" tabindex="-1"><a class="header-anchor" href="#declarative-policy-engine" aria-hidden="true">#</a> Declarative Policy Engine</h2>
+<p>Rubrik allows administrators to abstract away much of the low-end fuss required to build and maintain data protection to focus on adding value at a more strategic level across the organization. Rubrik's policy engine is simple as all of the imperative details are abstracted away and handled by an ingenious, scale-out system. The customer input fields are reduced to RPO, retention period, archive target, and replication target for specifying SLAs for protected objects.</p>
+</div></template>
+
+

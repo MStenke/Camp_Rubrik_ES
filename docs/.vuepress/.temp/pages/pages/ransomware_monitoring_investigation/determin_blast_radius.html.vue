@@ -1,0 +1,11 @@
+<template><div><h1 id="determining-blast-radius" tabindex="-1"><a class="header-anchor" href="#determining-blast-radius" aria-hidden="true">#</a> Determining blast radius</h1>
+<p>Having access to this kind of information is invaluable. Keeping track of all the anomalies in your environments means that you can take the actions required to find the location of the anomalies and use clean snapshots to recover from the anomalies. There are multiple options for recovery, which we will discuss in the next section.</p>
+<p>Expand the <strong>Haverford_site</strong> blueprint and <strong>click</strong> on <strong>haverford-webapp-01</strong> VM.  Click the <strong>Suspicious</strong>, <strong>Modified</strong>, and <strong>Deleted</strong> filters. Browse and see exactly which files and folders have been affected. In this case, drilling down to <strong>var &gt; www &gt; html &gt; wp-content &gt; plugins</strong>. You can now see that there are several files that have been encrypted.</p>
+<p><img src="@source/pages/ransomware_monitoring_investigation/images/blastradius.gif" alt="Blast Radius"></p>
+<p>Now that you have determined the blast radius, we can proceed to recovery.</p>
+<div class="custom-container warning"><p class="custom-container-title">WARNING</p>
+<p>Without the Ransomware Monitoring &amp; Investigation, it would be a &quot;needle in a haystack&quot; exercise to figure out what systems, files, and folders were impacted and where the clean recovery point will be.</p>
+</div>
+</div></template>
+
+

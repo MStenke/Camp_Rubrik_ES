@@ -1,0 +1,23 @@
+---
+
+---
+
+# Identify and Recover from an attack with Rubrik Ransomware Investigation
+
+#### Can you REALLY recover from a cyber attack? Ransomware will impact your environment disproportionately, leaving some assets infected and others clean. Learn how Rubrik solves that problem in this lab.
+
+Cybersecurity authorities have observed a global increase in sophisticated, high-impact ransomware incidents against critical infrastructure organizations. Essential sectors of infrastructure including Healthcare, the Defense Industrial Base, Emergency Services, Food and Agriculture, Government Agencies, and Information Technology Sectors have been attacked. Victims of the most significant cyber and ransomware attacks of 2021 were hit with ransom demands totaling nearly $20 billion globally.
+
+## Introducing Rubrik Zero Trust Data Security for Ransomware Resiliency
+
+The Rubrik Security Cloud is designed from the ground up to ensure organizations can get the data back if they are ever affected by ransomware. Unfortunately, that is just the beginning of the journey. How do organizations know what to recover and which recovery points to recover from? Was sensitive data in scope? Have you identified and disabled the malware strain that wreaked havoc? Do you have a way of orchestrating the recovery of whole applications and not just individual assets? These are the questions Rubrik set out to answer with our Rubrik Security Cloud that closely aligns to the NIST framework, the gold standard of best practices for protecting their most valuable asset.
+
+This lab will walk you through a scenario designed to mimic a ransomware attack and the associated work that follows. You will see how easy it is with Rubrik to align IT and Security workflows and get back to business quicker.
+
+![Rubrik Security Cloud](./images/latest_pillar.jpg)
+
+The traditional approach to handling these kinds of attacks involves the recovery of a server from backup into a clean room, scanning for the malware, and repeating the process until a clean recovery point is identified. This is a painfully long process that can take days if not weeks of iteration in order to identify the clean recovery point. Once this clean recovery point is identified, this can be restored into production or can be used as a launching point for additional forensics. 
+
+![Ransomware Pain](./images/ransomware_recovery_pain.gif)
+
+Time is rarely a resource that is plentiful in the event of such an attack. This continuous iteration is also a blunt tool approach that rarely yields timely results. With Rubrik Security Cloud, you can remove this cycle of pain, and also surgically recover impacted files as necessary, minimizing loss of data.

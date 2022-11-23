@@ -1,0 +1,1 @@
+export const data = JSON.parse("{\"key\":\"v-48d11129\",\"path\":\"/pages/ms365_protection/ms365-0.html\",\"title\":\"Microsoft 365 Protection\",\"lang\":\"en-US\",\"frontmatter\":{},\"excerpt\":\"\",\"headers\":[],\"git\":{},\"filePathRelative\":\"pages/ms365_protection/ms365-0.md\"}")

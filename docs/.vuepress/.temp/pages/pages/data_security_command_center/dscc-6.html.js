@@ -1,0 +1,1 @@
+export const data = JSON.parse("{\"key\":\"v-ba10c22e\",\"path\":\"/pages/data_security_command_center/dscc-6.html\",\"title\":\"Multi-factor Authentication (MFA) with Time-based One-Time Passwords (TOTP)\",\"lang\":\"en-US\",\"frontmatter\":{},\"excerpt\":\"\",\"headers\":[],\"git\":{},\"filePathRelative\":\"pages/data_security_command_center/dscc-6.md\"}")

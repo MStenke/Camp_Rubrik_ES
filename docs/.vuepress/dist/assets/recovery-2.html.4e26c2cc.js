@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-536f72da","path":"/pages/orchestrated_recovery/recovery-2.html","title":"Blueprints","lang":"en-US","frontmatter":{},"excerpt":"","headers":[{"level":2,"title":"Intro to Blueprints","slug":"intro-to-blueprints","link":"#intro-to-blueprints","children":[]}],"git":{},"filePathRelative":"pages/orchestrated_recovery/recovery-2.md"}');export{e as data};

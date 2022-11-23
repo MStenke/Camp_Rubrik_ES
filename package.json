@@ -1,0 +1,16 @@
+{
+  "name": "camp_rubrik_es",
+  "version": "1.0.0",
+  "description": "Camp Rubrik by Erik Sterck",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "author": "Martin Stenke",
+  "license": "ISC",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.53",
+    "vuepress-plugin-copy-code2": "^2.0.0-beta.127"
+  }
+}

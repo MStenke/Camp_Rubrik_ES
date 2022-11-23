@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-4fa473a5","path":"/pages/ms365_protection/ms365-4.html","title":"Congratulations","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{},"filePathRelative":"pages/ms365_protection/ms365-4.md"}');export{t as data};

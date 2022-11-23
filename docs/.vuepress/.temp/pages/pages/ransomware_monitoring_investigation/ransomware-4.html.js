@@ -1,0 +1,1 @@
+export const data = JSON.parse("{\"key\":\"v-20568d2a\",\"path\":\"/pages/ransomware_monitoring_investigation/ransomware-4.html\",\"title\":\"Determining blast radius\",\"lang\":\"en-US\",\"frontmatter\":{},\"excerpt\":\"\",\"headers\":[],\"git\":{},\"filePathRelative\":\"pages/ransomware_monitoring_investigation/ransomware-4.md\"}")

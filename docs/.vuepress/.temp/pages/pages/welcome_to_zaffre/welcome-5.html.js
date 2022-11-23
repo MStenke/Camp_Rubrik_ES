@@ -1,0 +1,1 @@
+export const data = JSON.parse("{\"key\":\"v-ae35e97e\",\"path\":\"/pages/welcome_to_zaffre/welcome-5.html\",\"title\":\"In-place recovery blueprint\",\"lang\":\"en-US\",\"frontmatter\":{},\"excerpt\":\"\",\"headers\":[],\"git\":{},\"filePathRelative\":\"pages/welcome_to_zaffre/welcome-5.md\"}")

@@ -1,0 +1,6 @@
+<template><div><h1 id="microsoft-365-protection" tabindex="-1"><a class="header-anchor" href="#microsoft-365-protection" aria-hidden="true">#</a> Microsoft 365 Protection</h1>
+<p>The ransomware attack that Zaffre encountered was an eye-opener for everyone. Luckily, the malicious attack did not surface in your cloud environments. But, it has clarified the need to protect our data in your Microsoft 365 applications. You need to do your best to ensure the ability to recover from attacks in the future, including in the cloud.</p>
+<p>In this task, you will integrate Rubrik Security Cloud with our Microsoft 365 subscription, and apply our SLA policy to Exchange Mailbox, OneDrive, SharePoint, and Teams applications. Let's get started!</p>
+</div></template>
+
+

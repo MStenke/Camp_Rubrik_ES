@@ -1,0 +1,1 @@
+export const data = JSON.parse("{\"key\":\"v-c81d54f8\",\"path\":\"/pages/sensitive_data_discovery/sensitive-3.html\",\"title\":\"Cyber incident response\",\"lang\":\"en-US\",\"frontmatter\":{},\"excerpt\":\"\",\"headers\":[],\"git\":{},\"filePathRelative\":\"pages/sensitive_data_discovery/sensitive-3.md\"}")

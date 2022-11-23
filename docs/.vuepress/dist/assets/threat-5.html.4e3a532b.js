@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-2efb1d61","path":"/pages/threat_monitoring_hunting/threat-5.html","title":"Forensic investigations","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{},"filePathRelative":"pages/threat_monitoring_hunting/threat-5.md"}');export{t as data};

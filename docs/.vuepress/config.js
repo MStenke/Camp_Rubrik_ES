@@ -3,7 +3,7 @@ import { copyCodePlugin } from "vuepress-plugin-copy-code2";
 
 export default  {
   title: 'Camp Rubrik - powered by Erik Sterck',
-  description: 'testing',
+  description: 'Camp Rubrik - powered by Erik Sterck. Erleben Sie die vielfältigen Möglichkeiten die Ihnen Rubrik rund um das Thema Zero Trust Data Security bietet live in einer dedizierten Demo Umgebung kennen.',
   plugins: [
     copyCodePlugin({
       // your options
